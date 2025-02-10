@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on tech discussions, knowledge sharing, and building strong connections in the industry.
 - 📫 How to reach me tehcmountaineer@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I approach problem-solving like mountaineering—strategic, challenging, and always rewarding when reaching the summit!
+- ⚡ Fun fact: I approach problem-solving like mountaineering.. strategic, challenging, and always rewarding when reaching the summit!
 
 <!---
 DevPeakHunter/DevPeakHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
